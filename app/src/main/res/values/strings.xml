@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="title">Title</string>
+    <string name="enter_your_message">Enter your message...</string>
+    <string name="description">Description</string>
+    <string name="textview">TextView</string>
+    <string name="delete">Delete</string>
+</resources>
